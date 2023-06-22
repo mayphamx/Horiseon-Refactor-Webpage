@@ -195,7 +195,7 @@ p {
     text-align: center;
 }
 
-/* changed h2 to h4 */
-.footer h4 {
+/* changed h2 to h4 and remove class . to each header section*/
+footer h4 {
     font-size: 20px;
 }
